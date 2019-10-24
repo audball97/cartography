@@ -1402,7 +1402,8 @@
 
 	body {
 		background-color: #000;
-		background-image: ../../images/bg.jpg;
+		background-image:RedwoodBackGround.PNG	
+;
 		background-size: cover;
 		background-position: top center;
 	}
